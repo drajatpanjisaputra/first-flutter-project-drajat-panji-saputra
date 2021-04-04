@@ -1,6 +1,6 @@
 # latihan_flutter_application_1
 
-A new flutter module project.
+A new flutter module project by Drajat Panji Saputra
 
 ## Getting Started
 
